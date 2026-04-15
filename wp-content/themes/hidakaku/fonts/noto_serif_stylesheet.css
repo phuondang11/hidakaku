@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Noto Serif JP';
+    src: url('NotoSerifJP-Light.eot');
+    src: url('NotoSerifJP-Light.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerifJP-Light.woff2') format('woff2'),
+        url('NotoSerifJP-Light.woff') format('woff'),
+        url('NotoSerifJP-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    src: url('NotoSerifJP-Bold.eot');
+    src: url('NotoSerifJP-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerifJP-Bold.woff2') format('woff2'),
+        url('NotoSerifJP-Bold.woff') format('woff'),
+        url('NotoSerifJP-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    src: url('NotoSerifJP-Regular.eot');
+    src: url('NotoSerifJP-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerifJP-Regular.woff2') format('woff2'),
+        url('NotoSerifJP-Regular.woff') format('woff'),
+        url('NotoSerifJP-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    src: url('NotoSerifJP-Medium.eot');
+    src: url('NotoSerifJP-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerifJP-Medium.woff2') format('woff2'),
+        url('NotoSerifJP-Medium.woff') format('woff'),
+        url('NotoSerifJP-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

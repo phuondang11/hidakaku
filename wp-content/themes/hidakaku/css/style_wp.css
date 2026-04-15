@@ -1,0 +1,2 @@
+.acf-fields{position: relative;}
+.acf-fields::after{content: '';position: absolute;bottom: 0;left: 0;width: 100%;height: 5px;background: #ad061c;}
